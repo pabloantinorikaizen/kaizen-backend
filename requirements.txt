@@ -1,8 +1,0 @@
-flask
-requests
-openai
-3.  **Vercel Dashboard:**
-* Ve a la pestaña **Deployments**.
-* Haz clic en el último intento que falló.
-* Mira los **"Functions Logs"**. Si hay un error de código, ahí te dirá exactamente qué línea falla.
-* Si el error persiste, intenta borrar el proyecto en Vercel y volverlo a importar desde GitHub ahora que los archivos están bien organizados.
