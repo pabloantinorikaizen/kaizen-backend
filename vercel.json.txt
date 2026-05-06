@@ -1,4 +1,2 @@
 {
   "rewrites": [{ "source": "/(.*)", "destination": "/api/main.py" }]
-}
-3.  **URL en el navegador:** Cuando Vercel termine el despliegue, prueba entrando a la URL principal. Si te dice "Servidor Kaizen Propiedades OK", significa que ya no hay error 404. Luego, para el Webhook de Meta, la dirección será `tu-url.vercel.app/webhook`.
